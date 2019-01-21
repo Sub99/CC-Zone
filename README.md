@@ -48,7 +48,7 @@ Alrighty then, to win this game, you will be building **CC-Zone WebApp** (of cou
     - comment functionality
     - (Bonus) Author Image
     - (Bonus) Ability to delete posts and comments
-  - User Profile: A page displaying general information like username, image, recent posts, total number of posts etc. 
+  - `User Profile`: A page displaying general information like username, image, recent posts, total number of posts etc. 
     - Add a Logout button
     - (Bonus) After authentication, instead of `User Profile`, the username should be displayed on the right side of navbar. (for instance, `abhishekspeer` will be displayed instead of `User Profile` if the username is `abhishekspeer`)
     
